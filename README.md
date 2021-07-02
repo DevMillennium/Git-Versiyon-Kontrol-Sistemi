@@ -49,7 +49,7 @@ Başlıca bilmemiz gereken bazı terimler;
  ---
  ## Başlıyoruz 
  <p> Yapacağımız ilk kongigürasyon ayarlarını yapılandırmak olacaktır , bu ayarlardan ikisi `user.name` ve `user.email` dir. bu ayarları yapılandırmak için </p>
- > git config --global user.name "Adınız soyadınız"
- > git config --global user.email "email@adresiniz"
+ >git config --global user.name "Adınız soyadınız"
+ >git config --global user.email "email@adresiniz"
  <p>Bu ayarlar global yani sistem genelinde kullanılan ve aktif olan ayarlardır .</p>
- > Bu ayarların bütününü görmek için ise `git congif --list` kullanabilirsiniz 
+ >Bu ayarların bütününü görmek için ise `git congif --list` kullanabilirsiniz 
