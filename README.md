@@ -86,6 +86,8 @@ Burada local areaya göndermiş oluyoruz. Dosyaları işledim burada da ne yapt�
 ### git push
 Projemizde aldığımız commit'leri, remote repository'e gönderir.
 
+- ![gitPush](https://user-images.githubusercontent.com/74687192/124291855-b03a8a00-db5d-11eb-9ed4-c3907234598d.PNG)
+
 ### git pull
 remote repositoryideki değişikleri local repoma çekmiş olurum
 `örnek kullanım = Githubda readme dosyanızda değişiklik yaptınız . Bunu git ile pushlamaya çalışırsanız hata alırsınız ve uzak remoda değişiklikler oldu denir bu komutu kullanabilirsiniz`
@@ -102,6 +104,9 @@ En son yaptığımız komiti gösterir
 
 ### ls -al
 Bütün dosya adlarını görebilirsiniz
+
+- ![LsAl](https://user-images.githubusercontent.com/74687192/124291852-afa1f380-db5d-11eb-94e8-7d2da65fe001.PNG)
+
 
 ### git branch frontend 
 ### git branch backend
