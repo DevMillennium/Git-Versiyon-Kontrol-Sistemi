@@ -90,13 +90,15 @@ Projemizde aldığımız commit'leri, remote repository'e gönderir.
 remote repositoryideki değişikleri local repoma çekmiş olurum
 `örnek kullanım = Githubda readme dosyanızda değişiklik yaptınız . Bunu git ile pushlamaya çalışırsanız hata alırsınız ve uzak remoda değişiklikler oldu denir bu komutu kullanabilirsiniz`
 
+
+
 ### git log
 
 Bütün Yaptığımız komitleri buradan gözlemleyebiliriz.
-
+- ![GitLog](https://user-images.githubusercontent.com/74687192/124291594-63ef4a00-db5d-11eb-92a7-ed604a111dfe.PNG)
 ### git show 
-
 En son yaptığımız komiti gösterir
+- ![gitShow](https://user-images.githubusercontent.com/74687192/124291590-62be1d00-db5d-11eb-8b9b-c4dd9ca61ec0.PNG)
 
 ### ls -al
 Bütün dosya adlarını görebilirsiniz
