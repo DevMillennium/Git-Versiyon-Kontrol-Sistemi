@@ -69,10 +69,11 @@ Uzaktaki repoya yani bizim için şuanda oluşturduğumuz Git-Versiyon-Kontrol-S
 
 ### git status
 senin git versiyonundaki statün ne , bu dosya geçişte mi çalışma halinde mi bakmaya yarıyor 
+- ![gitStatus](https://user-images.githubusercontent.com/74687192/124291009-c431bc00-db5c-11eb-9d03-ea0a6d54cb4d.PNG)
 
 ### git add .
 Komutu ile staging areaya gönderiyoruz
-
+- ![gitaddsonrasi](https://user-images.githubusercontent.com/74687192/124291006-c3992580-db5c-11eb-8ef6-ff002835563f.PNG)
 
 ### git commit -m 'herhangi bir commit'
 
