@@ -21,7 +21,7 @@ Projede verisyonlanmasını istemediğiniz dosyaları belirtebilirsiniz. (node_m
 
 GIT sistemini kullanmaya başladığınızda karşınıza daha önce aşina olmadığınız bazı tanımlar çıkacaktır. Temel bazı terimleri kısaca açıklayarak içeriğimizi bitirelim.
 
-1. `repository`: <p style="backgroundcolor:red"> Kısa ismi ile repo. Kodlarınızın saklandığı depodur. </p>
+1. `repository`: <p style="color:red"> Kısa ismi ile repo. Kodlarınızın saklandığı depodur. </p>
  2. `master`: Depodaki kararlı sürüme master denir.
 
  3. `branch`: GIT ağaç mantığı ile çalışır. Bir projeyi versiyonladığımızda master branch'i oluşur. Ana dosya (master) üzerinde değişklik yapmak hem tehlikelidir hem de çok kişi ile yapılan geliştirmelerde karışıklığa sebep olur. Kimin neyi değiştirdiğini takip etmek zorlaşır. Bu sebeple geliştiriciler master'den açılan dallar (branch) üzerinde geliştirmelerini yapar. Kullanıcılar branch (dallar) üzerinde yaptıkları geliştirmeleri master'a birleştirmesi için proje sahibine gönderirler.
