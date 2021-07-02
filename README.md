@@ -64,3 +64,15 @@ Başlıca bilmemiz gereken bazı terimler;
 ### git clone
 Olan bir repositoryi clone edip local repomuzla bağlamak için kullanacağımız git komutudur
 
+### git remote
+Uzaktaki repoya yani bizim için şuanda oluşturduğumuz Git-Versiyon-Kontrol-Sistemi
+
+### git status
+senin git versiyonundaki statün ne , bu dosya geçişte mi çalışma halinde mi bakmaya yarıyor 
+
+### git add .
+
+
+
+### git commit -m ''
+
