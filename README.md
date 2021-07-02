@@ -120,6 +120,8 @@ frontend ve backend adında birer dal oluşturabilirsiniz
 ### git branch -a
 Tüm dallanmaları görebiliyoruz buradan
 
+### git branch -d frontend
+Bu komut ile oluşturduğunuz frontend branchini silebilirsiniz
 
 ### git checkout frontend 
 frontend dalına geçebilirsiniz bu durumda
