@@ -71,8 +71,42 @@ Uzaktaki repoya yani bizim için şuanda oluşturduğumuz Git-Versiyon-Kontrol-S
 senin git versiyonundaki statün ne , bu dosya geçişte mi çalışma halinde mi bakmaya yarıyor 
 
 ### git add .
+Komutu ile staging areaya gönderiyoruz
 
 
+### git commit -m 'herhangi bir commit'
 
-### git commit -m ''
+Burada local areaya göndermiş oluyoruz. Dosyaları işledim burada da ne yaptığımı hatırlamak için sisteme not ekliyorum.
 
+### git push
+Projemizde aldığımız commit'leri, remote repository'e gönderir.
+
+### git pull
+remote repositoryideki değişikleri local repoma çekmiş olurum
+`örnek kullanım = Githubda readme dosyanızda değişiklik yaptınız . Bunu git ile pushlamaya çalışırsanız hata alırsınız ve uzak remoda değişiklikler oldu denir bu komutu kullanabilirsiniz`
+
+### git log
+
+Bütün Yaptığımız komitleri buradan gözlemleyebiliriz.
+
+### git show 
+
+En son yaptığımız komiti gösterir
+
+### ls -al
+Bütün dosya adlarını görebilirsiniz
+
+### git branch frontend 
+### git branch backend
+
+frontend adında bir dal oluşturabilirsiniz
+
+### git branch -a
+Tüm dallanmaları görebiliyoruz buradan
+
+
+### git checkout frontend 
+frontend dalına geçebilirsiniz bu durumda
+
+### git merge frontend backend
+backend ve frontend dalını birleştirebilirsiniz
