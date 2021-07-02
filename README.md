@@ -57,6 +57,6 @@ Başlıca bilmemiz gereken bazı terimler;
  ### git init
  Henüz versiyon kontrolü altında olmayan bir proje dizininde , boş bir git deposu oluşturmak için kullanılır.
  1. İlk başta dosya dizinimize boş bir klasör ekleyiyoruz.
- ![mkdir](https://user-images.githubusercontent.com/74687192/124282222-44ebba80-db53-11eb-820a-0371fdcb5176.PNG)
- 2. Ardından yapacağımız ilk iş kendi local bilgisayarımızda repoyu oluşturmak
- ![gitinit](https://user-images.githubusercontent.com/74687192/124282219-44532400-db53-11eb-84da-46abc94229cb.PNG)
+ 2. ![mkdir](https://user-images.githubusercontent.com/74687192/124282222-44ebba80-db53-11eb-820a-0371fdcb5176.PNG)
+ 3. Ardından yapacağımız ilk iş kendi local bilgisayarımızda repoyu oluşturmak
+ 4. ![gitinit](https://user-images.githubusercontent.com/74687192/124282219-44532400-db53-11eb-84da-46abc94229cb.PNG)
