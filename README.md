@@ -55,3 +55,5 @@ Başlıca bilmemiz gereken bazı terimler;
  >Bu ayarların bütününü görmek için ise `git congif --list` kullanabilirsiniz 
 
  ### git init
+ Henüz versiyon kontrolü altında olmayan bir proje dizininde , boş bir git deposu oluşturmak için kullanılır.
+ 1. İlk başta dosya dizinimize boş bir klasör ekleyiyoruz.
