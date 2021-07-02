@@ -33,3 +33,15 @@ GIT sistemini kullanmaya başladığınızda karşınıza daha önce aşina olma
 6. `pull`: Depodan dosyaları çekmek için kullanılır.
 
 7. `.gitignore`: GIT'in takip etmesini istemediğimiz dosya ve klasörleri belirttiğimiz dökümandır. Mesela node_module klasörünün izlenmesine gerek yoktur ve .gitignore dökümanı içinde bunu belirtiriz.
+
+---
+
+![Github](https://user-images.githubusercontent.com/74687192/124280326-3ac8bc80-db51-11eb-9859-d7940534e4bf.PNG)
+
+Başlıca bilmemiz gereken bazı terimler;
+<ol>
+<li>  untracked (izlenmeyen): GIT tarafından henüz takip edilmeyen, yani yeni oluşturulmuş dosyaları ifade eder. </li>
+<li> unstaged (hazırlanmamış): Güncellenmiş ancak commit’lenmek için hazırlanmamış dosyaları ifade eder. </li>
+ <li>  staged (hazırlanmış): Commit’lenmeye hazır olan dosyaları ifade eder. </li>
+<li> deleted (silinmiş): Projeden silinmiş ama GIT üzerinden kaldırılmamış dosyaları ifade eder. </li>
+ </ol>
