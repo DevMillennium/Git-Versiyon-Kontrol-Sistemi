@@ -98,6 +98,10 @@ remote repositoryideki değişikleri local repoma çekmiş olurum
 
 Bütün Yaptığımız komitleri buradan gözlemleyebiliriz.
 - ![GitLog](https://user-images.githubusercontent.com/74687192/124291594-63ef4a00-db5d-11eb-92a7-ed604a111dfe.PNG)
+
+- `git log -p-2` => son 2 değişikliği gösterir
+- `git log  --since=30 minutes` => 30 dakika içinde yaptığımız değişiklikleri gösterir
+
 ### git show 
 En son yaptığımız komiti gösterir
 - ![gitShow](https://user-images.githubusercontent.com/74687192/124291590-62be1d00-db5d-11eb-8b9b-c4dd9ca61ec0.PNG)
@@ -120,5 +124,27 @@ Tüm dallanmaları görebiliyoruz buradan
 ### git checkout frontend 
 frontend dalına geçebilirsiniz bu durumda
 
+### git fetch
+
+Remote branch'deki değişiklikleri indirmek için git fetch komutunu kullanıyoruz.
+
+### git merge 
+
+değişiklikleri otomatik merge et çakışma varsa bir sonraki adıma geçin demek oluyor 
+
+`git pull = git fetch+git merch`
+
 ### git merge frontend backend
 backend ve frontend dalını birleştirebilirsiniz
+
+### git revert 
+bu komut ile değişiklikleri 1 commitlik geri alabiliyoruz
+
+### git reset --soft 
+bu komut ile  commit bölgesinden alıyor staging area ve çalışma dizinimize dokunmuyor.
+
+### git reset --mixed 
+bu komut ile staging areadanda geri döndürdüm
+
+### git reset --hard
+bu komut ile her yer sıfırlanmış oldu.
