@@ -64,8 +64,12 @@ Başlıca bilmemiz gereken bazı terimler;
 ### git clone
 Olan bir repositoryi clone edip local repomuzla bağlamak için kullanacağımız git komutudur
 
+- ![gitClone](https://user-images.githubusercontent.com/74687192/124291119-e4fa1180-db5c-11eb-932a-a687a5f0ed70.PNG)
+
 ### git remote
 Uzaktaki repoya yani bizim için şuanda oluşturduğumuz Git-Versiyon-Kontrol-Sistemi
+
+- ![git remote ](https://user-images.githubusercontent.com/74687192/124291112-e3304e00-db5c-11eb-9852-0ce7e9ce384f.PNG)
 
 ### git status
 senin git versiyonundaki statün ne , bu dosya geçişte mi çalışma halinde mi bakmaya yarıyor 
