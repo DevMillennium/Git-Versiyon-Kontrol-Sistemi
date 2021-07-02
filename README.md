@@ -21,16 +21,16 @@ Projede verisyonlanmasını istemediğiniz dosyaları belirtebilirsiniz. (node_m
 
 GIT sistemini kullanmaya başladığınızda karşınıza daha önce aşina olmadığınız bazı tanımlar çıkacaktır. Temel bazı terimleri kısaca açıklayarak içeriğimizi bitirelim.
 
-1. `repository`: Kısa ismi ile repo. Kodlarınızın saklandığı depodur.
+> 1. `repository`: <p style=ba> Kısa ismi ile repo. Kodlarınızın saklandığı depodur. </p>
 
-2. `master`: Depodaki kararlı sürüme master denir.
+> 2. `master`: Depodaki kararlı sürüme master denir.
 
-3. `branch`: GIT ağaç mantığı ile çalışır. Bir projeyi versiyonladığımızda master branch'i oluşur. Ana dosya (master) üzerinde değişklik yapmak hem tehlikelidir hem de çok kişi ile yapılan geliştirmelerde karışıklığa sebep olur. Kimin neyi değiştirdiğini takip etmek zorlaşır. Bu sebeple geliştiriciler master'den açılan dallar (branch) üzerinde geliştirmelerini yapar. Kullanıcılar branch (dallar) üzerinde yaptıkları geliştirmeleri master'a birleştirmesi için proje sahibine gönderirler.
+> 3. `branch`: GIT ağaç mantığı ile çalışır. Bir projeyi versiyonladığımızda master branch'i oluşur. Ana dosya (master) üzerinde değişklik yapmak hem tehlikelidir hem de çok kişi ile yapılan geliştirmelerde karışıklığa sebep olur. Kimin neyi değiştirdiğini takip etmek zorlaşır. Bu sebeple geliştiriciler master'den açılan dallar (branch) üzerinde geliştirmelerini yapar. Kullanıcılar branch (dallar) üzerinde yaptıkları geliştirmeleri master'a birleştirmesi için proje sahibine gönderirler.
 
-4. `merge`: branch'larda yapılan değişikliklerin master branch'ı ile birleştirilmesidir.
+> 4. `merge`: branch'larda yapılan değişikliklerin master branch'ı ile birleştirilmesidir.
 
-5. `push`: Dosyaları repo'ya (depo) göndermek için kullanılır.
+> 5. `push`: Dosyaları repo'ya (depo) göndermek için kullanılır.
 
-6. `pull`: Depodan dosyaları çekmek için kullanılır.
+> 6. `pull`: Depodan dosyaları çekmek için kullanılır.
 
-7. `.gitignore`: GIT'in takip etmesini istemediğimiz dosya ve klasörleri belirttiğimiz dökümandır. Mesela node_module klasörünün izlenmesine gerek yoktur ve .gitignore dökümanı içinde bunu belirtiriz.
+> 7. `.gitignore`: GIT'in takip etmesini istemediğimiz dosya ve klasörleri belirttiğimiz dökümandır. Mesela node_module klasörünün izlenmesine gerek yoktur ve .gitignore dökümanı içinde bunu belirtiriz.
