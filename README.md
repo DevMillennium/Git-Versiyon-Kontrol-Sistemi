@@ -40,9 +40,9 @@ GIT sistemini kullanmaya başladığınızda karşınıza daha önce aşina olma
 
 Başlıca bilmemiz gereken bazı terimler;
 <ol>
-<li>  untracked (izlenmeyen): GIT tarafından henüz takip edilmeyen, yani yeni oluşturulmuş dosyaları ifade eder. </li>
+<li> untracked (izlenmeyen): GIT tarafından henüz takip edilmeyen, yani yeni oluşturulmuş dosyaları ifade eder. </li>
 <li> unstaged (hazırlanmamış): Güncellenmiş ancak commit’lenmek için hazırlanmamış dosyaları ifade eder. </li>
- <li>  staged (hazırlanmış): Commit’lenmeye hazır olan dosyaları ifade eder. </li>
+<li> staged (hazırlanmış): Commit’lenmeye hazır olan dosyaları ifade eder. </li>
 <li> deleted (silinmiş): Projeden silinmiş ama GIT üzerinden kaldırılmamış dosyaları ifade eder. </li>
  </ol>
  
