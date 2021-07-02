@@ -45,3 +45,11 @@ Başlıca bilmemiz gereken bazı terimler;
  <li>  staged (hazırlanmış): Commit’lenmeye hazır olan dosyaları ifade eder. </li>
 <li> deleted (silinmiş): Projeden silinmiş ama GIT üzerinden kaldırılmamış dosyaları ifade eder. </li>
  </ol>
+ 
+ ---
+ ## Başlıyoruz 
+ <p> Yapacağımız ilk kongigürasyon ayarlarını yapılandırmak olacaktır , bu ayarlardan ikisi `user.name` ve `user.email` dir. bu ayarları yapılandırmak için </p>
+ > git config --global user.name "Adınız soyadınız"
+ > git config --global user.email "email@adresiniz"
+ <p>Bu ayarlar global yani sistem genelinde kullanılan ve aktif olan ayarlardır .</p>
+ > Bu ayarların bütününü görmek için ise `git congif --list` kullanabilirsiniz 
