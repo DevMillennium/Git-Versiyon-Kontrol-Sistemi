@@ -16,3 +16,21 @@ Birden fazla yerde (dağıtık olarak) dosyalarınızı ve versiyon kontrol bilg
 SnapShot alındıktan sonra değişiklik yapılan dosyaları görebilirsiniz.
 Takımların aynı projede beraber çalışmasına imkan verir. Kim neyi düzenledi? Ne ekledi? Ne çıkarttı? Son değişiklik ne zaman yapıldı? gibi bilgilere erişebilirsiniz. Bu sayede topluluk ile proje geliştirme süreçlerini kolaylaştırabilirisiniz.
 Projede verisyonlanmasını istemediğiniz dosyaları belirtebilirsiniz. (node_modules, .mp4, .log, .env gibi)</p>
+
+## Başlamadan Önce
+
+GIT sistemini kullanmaya başladığınızda karşınıza daha önce aşina olmadığınız bazı tanımlar çıkacaktır. Temel bazı terimleri kısaca açıklayarak içeriğimizi bitirelim.
+
+1. repository: Kısa ismi ile repo. Kodlarınızın saklandığı depodur.
+
+2. master: Depodaki kararlı sürüme master denir.
+
+branch: GIT ağaç mantığı ile çalışır. Bir projeyi versiyonladığımızda master branch'i oluşur. Ana dosya (master) üzerinde değişklik yapmak hem tehlikelidir hem de çok kişi ile yapılan geliştirmelerde karışıklığa sebep olur. Kimin neyi değiştirdiğini takip etmek zorlaşır. Bu sebeple geliştiriciler master'den açılan dallar (branch) üzerinde geliştirmelerini yapar. Kullanıcılar branch (dallar) üzerinde yaptıkları geliştirmeleri master'a birleştirmesi için proje sahibine gönderirler.
+
+merge: branch'larda yapılan değişikliklerin master branch'ı ile birleştirilmesidir.
+
+push: Dosyaları repo'ya (depo) göndermek için kullanılır.
+
+pull: Depodan dosyaları çekmek için kullanılır.
+
+.gitignore: GIT'in takip etmesini istemediğimiz dosya ve klasörleri belirttiğimiz dökümandır. Mesela node_module klasörünün izlenmesine gerek yoktur ve .gitignore dökümanı içinde bunu belirtiriz.
