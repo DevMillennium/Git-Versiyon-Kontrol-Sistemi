@@ -115,7 +115,7 @@ Bütün dosya adlarını görebilirsiniz
 ### git branch frontend 
 ### git branch backend
 
-frontend ve backend adında bir dal oluşturabilirsiniz
+frontend ve backend adında birer dal oluşturabilirsiniz
 
 ### git branch -a
 Tüm dallanmaları görebiliyoruz buradan
